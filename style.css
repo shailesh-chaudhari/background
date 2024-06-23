@@ -1,0 +1,38 @@
+body {
+    margin: 0;
+
+}
+
+header {
+    width: 100%;
+    padding: 32px;
+    box-sizing: border-box;
+    height: 730px;
+    padding-left: 5%;
+    padding-right: 5%;
+    background-image: url('https://static.vecteezy.com/system/resources/previews/014/538/120/non_2x/top-view-of-modern-white-table-vintage-work-corner-computer-keyboard-call-center-workspace-concept-customer-service-online-meeting-workspace-management-style-business-design-area-free-photo.jpg');
+    background-repeat: no-repeat;
+    /* background-size: 800px 800px; */
+    /* background-position: top right; */
+    /* background-position: top;
+    background-position: center; */
+    /* background-size: contain; */
+    background-size: cover;
+}
+
+div {
+    padding-top: 15%;
+}
+
+nav {
+    text-align: center;
+
+}
+
+nav>span {
+    font-weight: 500;
+    padding: 0 16px;
+    font-size: 16px;
+    cursor: pointer;
+
+}
